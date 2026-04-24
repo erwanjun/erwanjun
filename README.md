@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm Erwan Jun
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm Erwanjun
 
 [![](https://img.shields.io/github/followers/erwanjun?label=Followers&style=social)](https://github.com/erwanjun)
 [![](https://img.shields.io/github/stars/erwanjun?label=Stars&style=social)](https://github.com/erwanjun)
@@ -10,9 +10,8 @@
 
 - 🤖 I'm currently working in **China**.
 - 👨‍💻 I'm currently learning **Golang, Python, Cloud Native, AI, JS/TS, React**, etc.
-- ✍️ [MyBlog](https://your-blog.com)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:your-email@example.com)
+- 📫 Reach me: [email](mailto:Wan@jiaqi.life)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/erwanjun?label=follow%20me&style=social)](https://github.com/erwanjun/)
 - 🎣 Fun fact: Reading, coding, traveling, thinking, minimalist
 
@@ -57,10 +56,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 #### 🛠 Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -72,15 +67,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+#### 📈 Activity
 
-#### 👉 [Recent Blog](https://your-blog.com)
-
-<!-- BLOG-POST-LIST:START -->
-- Waiting for daily workflow to populate this section...
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erwanjun&theme=minimal&hide_border=true)
