@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 把下面这个 feed_list 换成你自己的博客 RSS 地址，多个用逗号分隔
+          # 示例：https://your-blog.com/feed/
+          feed_list: "https://your-blog.com/feed/"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
