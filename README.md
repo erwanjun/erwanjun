@@ -19,7 +19,7 @@
 
 </td>
 <td valign="center" width="50%">
-<img src="https://raw.githubusercontent.com/erwanjun/erwanjun/main/.github/assets/cover.png" width="320" height="320">
+<img src="https://raw.githubusercontent.com/erwanjun/erwanjun/main/.github/assets/cover.png" width="400" height="300">
 </td>
 </tr>
 </table>
