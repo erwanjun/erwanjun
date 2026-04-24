@@ -19,7 +19,7 @@
 
 </td>
 <td valign="center" width="50%">
-<img src="https://raw.githubusercontent.com/erwanjun/erwanjun/main/.github/assets/cover.gif" width="500" height="300">
+<img src="https://raw.githubusercontent.com/erwanjun/erwanjun/main/.github/assets/cover.svg" width="500" height="300">
 </td>
 </tr>
 </table>
@@ -29,10 +29,10 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erwanjun&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erwanjun&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF8DC&title_color=8B4513&text_color=5C4033&icon_color=D2691E&hide_border=true"/>
 </td>
 <td valign="top" width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwanjun&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwanjun&layout=compact&langs_count=7&bg_color=FFF8DC&title_color=8B4513&text_color=5C4033&icon_color=D2691E&hide_border=true"/>
 </td>
 </tr>
 </table>
@@ -50,7 +50,7 @@
 
 #### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com/?user=erwanjun&theme=graywhite&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=erwanjun&background=FFF8DC&ring=D2691E&fire=D2691E&currStreakLabel=8B4513&sideLabels=8B4513&currStreakNum=5C4033&dates=8B4513&sideNums=5C4033&stroke=8B4513&hide_border=true" />
 
 </td>
 </tr>
@@ -69,4 +69,4 @@
 
 #### 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erwanjun&theme=minimal&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erwanjun&bg_color=FFF8DC&color=5C4033&line=D2691E&point=8B4513&title_color=8B4513&area=true&area_color=FFE4C4&hide_border=true)
